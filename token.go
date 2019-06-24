@@ -5,8 +5,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/SermoDigital/jose/crypto"
-	"github.com/SermoDigital/jose/jws"
+	"gopkg.in/jose.v1/crypto"
+	"gopkg.in/jose.v1/jws"
 )
 
 const (
