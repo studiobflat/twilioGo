@@ -1,4 +1,4 @@
-module github.com/studiobflat/go-tesuji/twilioGo
+module github.com/studiobflat/twilioGo
 
 go 1.12
 
